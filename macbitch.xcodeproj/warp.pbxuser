@@ -1,0 +1,473 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 630}}";
+			sepNavSelRange = "{242, 0}";
+			sepNavVisRect = "{{0, 0}, {954, 630}}";
+			sepNavWindowFrame = "{{15, 70}, {999, 703}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = D5A1B6B60A863B9A007A8C78 /* macbitch */;
+		activeTarget = 8D1107260486CEB800E47090 /* macbitch */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* macbitch */,
+		);
+		breakpoints = (
+		);
+		breakpointsGroup = D5EE9D760A89610300A39EAB /* XCBreakpointsBucket */;
+		codeSenseManager = D5A1B6BC0A863BB3007A8C78 /* Code sense */;
+		executables = (
+			D5A1B6B60A863B9A007A8C78 /* macbitch */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 179503318;
+			PBXWorkspaceStateSaveDate = 179503318;
+		};
+		sourceControlManager = D5A1B6BB0A863BB3007A8C78 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* macbitch */ = {
+		activeExec = 0;
+		executables = (
+			D5A1B6B60A863B9A007A8C78 /* macbitch */,
+		);
+	};
+	8D1107310486CEB800E47090 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 630}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {954, 630}}";
+			sepNavWindowFrame = "{{38, 49}, {999, 703}}";
+		};
+	};
+	D51EC3EC0A8CCF6200CC3457 /* Blitter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 630}}";
+			sepNavSelRange = "{203, 0}";
+			sepNavVisRect = "{{0, 0}, {954, 630}}";
+			sepNavWindowFrame = "{{15, 70}, {999, 703}}";
+		};
+	};
+	D51EC3F00A8CD03000CC3457 /* Blitter.cxx */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1000, 742}}";
+			sepNavSelRange = "{841, 0}";
+			sepNavVisRect = "{{0, 112}, {954, 630}}";
+			sepNavWindowFrame = "{{85, 75}, {999, 703}}";
+		};
+	};
+	D51EC48B0A8CD93F00CC3457 /* Greets.cxx */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 672}}";
+			sepNavSelRange = "{223, 0}";
+			sepNavVisRect = "{{0, 0}, {954, 630}}";
+			sepNavWindowFrame = "{{15, 70}, {999, 703}}";
+		};
+	};
+	D51EC48C0A8CD93F00CC3457 /* Greets.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 630}}";
+			sepNavSelRange = "{291, 0}";
+			sepNavVisRect = "{{0, 0}, {954, 630}}";
+			sepNavWindowFrame = "{{38, 49}, {999, 703}}";
+		};
+	};
+	D533625B0A8E888200AC6187 /* Last.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 630}}";
+			sepNavSelRange = "{359, 0}";
+			sepNavVisRect = "{{0, 0}, {954, 630}}";
+			sepNavWindowFrame = "{{15, 70}, {999, 703}}";
+		};
+	};
+	D53362670A8E88C400AC6187 /* Last.cxx */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 630}}";
+			sepNavSelRange = "{217, 0}";
+			sepNavVisRect = "{{0, 0}, {954, 630}}";
+			sepNavWindowFrame = "{{38, 49}, {999, 703}}";
+		};
+	};
+	D53362E50A8E8CDF00AC6187 /* Break.cxx */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 630}}";
+			sepNavSelRange = "{250, 0}";
+			sepNavVisRect = "{{0, 0}, {954, 630}}";
+			sepNavWindowFrame = "{{15, 70}, {999, 703}}";
+		};
+	};
+	D53362E90A8E8CEA00AC6187 /* Break.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 630}}";
+			sepNavSelRange = "{363, 0}";
+			sepNavVisRect = "{{0, 0}, {954, 630}}";
+			sepNavWindowFrame = "{{38, 49}, {999, 703}}";
+		};
+	};
+	D5615A050A8DA0C90021CF96 /* Title.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 630}}";
+			sepNavSelRange = "{181, 0}";
+			sepNavVisRect = "{{0, 0}, {954, 630}}";
+			sepNavWindowFrame = "{{15, 70}, {999, 703}}";
+		};
+	};
+	D5615A090A8DA0D60021CF96 /* Title.cxx */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 658}}";
+			sepNavSelRange = "{348, 0}";
+			sepNavVisRect = "{{0, 0}, {954, 630}}";
+			sepNavWindowFrame = "{{38, 49}, {999, 703}}";
+		};
+	};
+	D5615C6E0A8E26C60021CF96 /* Fade.cxx */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1021, 1624}}";
+			sepNavSelRange = "{2274, 0}";
+			sepNavVisRect = "{{0, 0}, {954, 630}}";
+			sepNavWindowFrame = "{{15, 70}, {999, 703}}";
+		};
+	};
+	D5615C720A8E26DB0021CF96 /* Fade.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 630}}";
+			sepNavSelRange = "{337, 35}";
+			sepNavVisRect = "{{0, 0}, {954, 630}}";
+			sepNavWindowFrame = "{{38, 49}, {999, 703}}";
+		};
+	};
+	D5A1B6B60A863B9A007A8C78 /* macbitch */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+			"PBXLSLaunchAction-0" = {
+				PBXLSLaunchAction = 0;
+				PBXLSLaunchStartAction = 1;
+				PBXLSLaunchStdioStyle = 2;
+				PBXLSLaunchStyle = 0;
+				class = PBXLSRunLaunchConfig;
+				displayName = "Executable Runner";
+				identifier = com.apple.Xcode.launch.runConfig;
+				remoteHostInfo = "";
+				startActionInfo = "";
+			};
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = macbitch;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		startupPath = "<<ProjectDirectory>>";
+		variableFormatDictionary = {
+		};
+	};
+	D5A1B6BB0A863BB3007A8C78 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	D5A1B6BC0A863BB3007A8C78 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D5A1B6C80A863C80007A8C78 /* BASSWrapper.cxx */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 1498}}";
+			sepNavSelRange = "{1000, 0}";
+			sepNavVisRect = "{{0, 0}, {867, 627}}";
+			sepNavWindowFrame = "{{38, 52}, {912, 700}}";
+		};
+	};
+	D5A1B6C90A863C80007A8C78 /* BASSWrapper.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 546}}";
+			sepNavSelRange = "{557, 23}";
+			sepNavVisRect = "{{0, 378}, {1099, 126}}";
+			sepNavWindowFrame = "{{15, 73}, {912, 700}}";
+		};
+	};
+	D5A1B6CA0A863C80007A8C78 /* GFXHelper.cxx */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 2884}}";
+			sepNavSelRange = "{3509, 0}";
+			sepNavVisRect = "{{0, 0}, {867, 627}}";
+			sepNavWindowFrame = "{{15, 73}, {912, 700}}";
+		};
+	};
+	D5A1B6CB0A863C80007A8C78 /* GFXHelper.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 627}}";
+			sepNavSelRange = "{264, 0}";
+			sepNavVisRect = "{{0, 0}, {867, 627}}";
+			sepNavWindowFrame = "{{39, 52}, {912, 700}}";
+		};
+	};
+	D5A1B6CC0A863C80007A8C78 /* Constants.cxx */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 627}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {867, 627}}";
+			sepNavWindowFrame = "{{38, 52}, {912, 700}}";
+		};
+	};
+	D5A1B6CD0A863C80007A8C78 /* Constants.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 364}}";
+			sepNavSelRange = "{66, 19}";
+			sepNavVisRect = "{{0, 0}, {1099, 126}}";
+			sepNavWindowFrame = "{{15, 70}, {999, 703}}";
+		};
+	};
+	D5A1B6CE0A863C80007A8C78 /* Defines.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 627}}";
+			sepNavSelRange = "{165, 0}";
+			sepNavVisRect = "{{0, 0}, {867, 627}}";
+			sepNavWindowFrame = "{{36, 52}, {912, 700}}";
+		};
+	};
+	D5A1B6CF0A863C80007A8C78 /* main.cxx */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 1260}}";
+			sepNavSelRange = "{1780, 49}";
+			sepNavVisRect = "{{0, 813}, {1099, 126}}";
+			sepNavWindowFrame = "{{36, 70}, {1070, 697}}";
+		};
+	};
+	D5A1B6D20A863C80007A8C78 /* SDLWrapper.cxx */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {979, 1862}}";
+			sepNavSelRange = "{267, 0}";
+			sepNavVisRect = "{{0, 0}, {867, 627}}";
+			sepNavWindowFrame = "{{15, 73}, {912, 700}}";
+		};
+	};
+	D5A1B6D30A863C80007A8C78 /* SDLWrapper.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 700}}";
+			sepNavSelRange = "{0, 25}";
+			sepNavVisRect = "{{0, 0}, {1099, 126}}";
+			sepNavWindowFrame = "{{15, 73}, {912, 700}}";
+		};
+	};
+	D5A1B6D40A863C80007A8C78 /* DisplacementMapper.cxx */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1056, 1652}}";
+			sepNavSelRange = "{3624, 0}";
+			sepNavVisRect = "{{0, 205}, {867, 627}}";
+			sepNavWindowFrame = "{{22, 64}, {912, 700}}";
+		};
+	};
+	D5A1B6D50A863C80007A8C78 /* DisplacementMapper.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1455, 1386}}";
+			sepNavSelRange = "{175, 0}";
+			sepNavVisRect = "{{0, 759}, {867, 627}}";
+			sepNavWindowFrame = "{{15, 73}, {912, 700}}";
+		};
+	};
+	D5B21B240A8B62CA00FCAE0B /* Effect.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1025, 624}}";
+			sepNavSelRange = "{512, 0}";
+			sepNavVisRect = "{{0, 0}, {1025, 624}}";
+			sepNavWindowFrame = "{{70, 77}, {1070, 697}}";
+		};
+	};
+	D5B21B500A8B671200FCAE0B /* EffectHandler.cxx */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1025, 624}}";
+			sepNavSelRange = "{291, 0}";
+			sepNavVisRect = "{{0, 0}, {1025, 624}}";
+			sepNavWindowFrame = "{{15, 76}, {1070, 697}}";
+		};
+	};
+	D5B21B540A8B672500FCAE0B /* EffectHandler.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 462}}";
+			sepNavSelRange = "{321, 61}";
+			sepNavVisRect = "{{0, 280}, {1099, 126}}";
+			sepNavWindowFrame = "{{84, 68}, {1070, 697}}";
+		};
+	};
+	D5B21C160A8B6FF100FCAE0B /* Tunnel.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1025, 624}}";
+			sepNavSelRange = "{396, 0}";
+			sepNavVisRect = "{{0, 0}, {1025, 624}}";
+			sepNavWindowFrame = "{{38, 55}, {1070, 697}}";
+		};
+	};
+	D5B21C310A8B711100FCAE0B /* Tunnel.cxx */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1025, 644}}";
+			sepNavSelRange = "{195, 0}";
+			sepNavVisRect = "{{0, 0}, {1025, 624}}";
+			sepNavWindowFrame = "{{15, 76}, {1070, 697}}";
+		};
+	};
+	D5B21DC00A8B7D0700FCAE0B /* Tube.cxx */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 644}}";
+			sepNavSelRange = "{189, 0}";
+			sepNavVisRect = "{{0, 0}, {954, 630}}";
+			sepNavWindowFrame = "{{38, 49}, {999, 703}}";
+		};
+	};
+	D5B21DC40A8B7D1600FCAE0B /* Tube.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 630}}";
+			sepNavSelRange = "{152, 0}";
+			sepNavVisRect = "{{0, 0}, {954, 630}}";
+			sepNavWindowFrame = "{{15, 70}, {999, 703}}";
+		};
+	};
+	D5B21EE90A8B83D400FCAE0B /* Blocks.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 630}}";
+			sepNavSelRange = "{135, 0}";
+			sepNavVisRect = "{{0, 0}, {954, 630}}";
+			sepNavWindowFrame = "{{38, 49}, {999, 703}}";
+		};
+	};
+	D5B21EEB0A8B83DE00FCAE0B /* Blocks.cxx */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 630}}";
+			sepNavSelRange = "{186, 0}";
+			sepNavVisRect = "{{0, 0}, {954, 630}}";
+			sepNavWindowFrame = "{{15, 70}, {999, 703}}";
+		};
+	};
+	D5B21F980A8B880E00FCAE0B /* Blending.cxx */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 1246}}";
+			sepNavSelRange = "{689, 0}";
+			sepNavVisRect = "{{0, 0}, {954, 630}}";
+			sepNavWindowFrame = "{{38, 49}, {999, 703}}";
+		};
+	};
+	D5B21F9D0A8B888900FCAE0B /* Blending.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 630}}";
+			sepNavSelRange = "{69, 0}";
+			sepNavVisRect = "{{0, 0}, {954, 630}}";
+			sepNavWindowFrame = "{{306, 11}, {999, 703}}";
+		};
+	};
+	D5B6877B0A8BCEEB003E5800 /* Squared.cxx */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 630}}";
+			sepNavSelRange = "{592, 0}";
+			sepNavVisRect = "{{0, 0}, {954, 630}}";
+			sepNavWindowFrame = "{{15, 70}, {999, 703}}";
+		};
+	};
+	D5B6877C0A8BCEEB003E5800 /* Squared.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 630}}";
+			sepNavSelRange = "{336, 19}";
+			sepNavVisRect = "{{0, 0}, {954, 630}}";
+			sepNavWindowFrame = "{{15, 70}, {999, 703}}";
+		};
+	};
+	D5E184E80A9226DA0063EB68 /* SDLMain.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 5376}}";
+			sepNavSelRange = "{2626, 0}";
+			sepNavVisRect = "{{0, 966}, {954, 630}}";
+			sepNavWindowFrame = "{{17, 4}, {999, 703}}";
+		};
+	};
+	D5E218C10A880FE100A2C82E /* Noise.cxx */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 504}}";
+			sepNavSelRange = "{883, 0}";
+			sepNavVisRect = "{{0, 378}, {1099, 126}}";
+			sepNavWindowFrame = "{{70, 75}, {999, 703}}";
+		};
+	};
+	D5E218C20A880FE100A2C82E /* Noise.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {867, 627}}";
+			sepNavSelRange = "{173, 0}";
+			sepNavVisRect = "{{0, 0}, {867, 627}}";
+			sepNavWindowFrame = "{{15, 73}, {912, 700}}";
+		};
+	};
+	D5EE9CAA0A894B8400A39EAB /* Animation.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {881, 644}}";
+			sepNavSelRange = "{485, 0}";
+			sepNavVisRect = "{{0, 0}, {867, 627}}";
+			sepNavWindowFrame = "{{10, 61}, {912, 700}}";
+		};
+	};
+	D5EE9CAE0A894DAB00A39EAB /* Animation.cxx */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1099, 1918}}";
+			sepNavSelRange = "{2664, 0}";
+			sepNavVisRect = "{{0, 1792}, {1099, 126}}";
+			sepNavWindowFrame = "{{94, 78}, {912, 700}}";
+		};
+	};
+	D5EE9D050A89586B00A39EAB /* ImageHandler.cxx */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {888, 1442}}";
+			sepNavSelRange = "{1813, 0}";
+			sepNavVisRect = "{{0, 773}, {867, 627}}";
+			sepNavWindowFrame = "{{-2, 78}, {912, 700}}";
+		};
+	};
+	D5EE9D090A89588F00A39EAB /* ImageHandler.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {923, 627}}";
+			sepNavSelRange = "{536, 0}";
+			sepNavVisRect = "{{0, 0}, {867, 627}}";
+			sepNavWindowFrame = "{{38, 52}, {912, 700}}";
+		};
+	};
+	D5EE9D760A89610300A39EAB /* XCBreakpointsBucket */ = {
+		isa = XCBreakpointsBucket;
+		name = "Project Breakpoints";
+		objects = (
+		);
+	};
+	D5FAAFF20A8D233B00A09586 /* Concentrical.cxx */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 1428}}";
+			sepNavSelRange = "{627, 0}";
+			sepNavVisRect = "{{0, 278}, {954, 630}}";
+			sepNavWindowFrame = "{{15, 70}, {999, 703}}";
+		};
+	};
+	D5FAAFF30A8D233B00A09586 /* Concentrical.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 630}}";
+			sepNavSelRange = "{176, 0}";
+			sepNavVisRect = "{{0, 0}, {954, 630}}";
+			sepNavWindowFrame = "{{38, 49}, {999, 703}}";
+		};
+	};
+}
