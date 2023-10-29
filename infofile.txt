@@ -1,0 +1,19 @@
+bypass
+mac my bitch up
+
+done for evoke 2006. more of a fun production really. too bad there were
+only a few entries in the demo compo.
+
+this is the correctly bundled and fixed version that should run on all i386 macs. not sure about ppc. feel free to port, the source is available at our site. windows version is out there too. sorry for the huge demo size when unpacked.
+
+dipswitch            - music h.c.
+muhmac looza uwe     - music
+tomic                - artwork
+warp                 - code
+
+big thanks to dipswitch and cologne peepz for accomodation and nice
+after-party! hellos to all our beloved friends and contacts!
+
+www.unik.de // source + ports
+
+-
